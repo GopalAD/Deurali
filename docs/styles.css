@@ -1,0 +1,13 @@
+
+.navbar-custom {
+  display: flex;
+  align-items: center; /* Vertically centers the logo and text */
+  margin-bottom: 20px; /* Space below the navbar */
+}
+
+.navbar-custom img {
+  height: 30px; /* Adjust height as needed */
+  margin-right: 16px; /* Space between logo and text */
+}
+
+
